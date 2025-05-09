@@ -1,5 +1,7 @@
 # RVim
 
+![A screenshot showing RVim in action](./screenshot.png)
+
 A work in progress NeoVim clone written in Ruby.
 
 RVim is a terminal text editor meant for editing code. It is designed to be extremely extensible with a built-in Ruby REPL and a plugin system.
